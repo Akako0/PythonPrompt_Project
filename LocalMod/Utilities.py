@@ -1,5 +1,5 @@
 import os
-import Extension.SpecialCommands as SC
+import LocalMod.SpecialCommands as SC
 from datetime import datetime
 now = datetime.now()
 

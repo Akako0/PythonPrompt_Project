@@ -4,8 +4,8 @@ try:
 except:
     os.system('clear')
 
-import Extension.SpecialCommands as SC
-import Shell as Shell
+import LocalMod.SpecialCommands as SC
+import LocalMod.Shell as Shell
 running = True
 
 while running:

@@ -1,6 +1,6 @@
 import os
-import Extension.SpecialCommands as SC
-import Utilities as Uts
+import LocalMod.SpecialCommands as SC
+import LocalMod.Utilities as Uts
 from importlib.machinery import SourceFileLoader
 
 def get_command (command_plus_args):
